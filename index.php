@@ -1,1 +1,1 @@
-<?php include("date.html")?>
+<?php include("home.html")?>
