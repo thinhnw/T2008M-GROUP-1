@@ -18,10 +18,10 @@ body {
 .grid {
 	display: grid;
 	grid-template-columns: 2fr 1fr;
+	box-shadow: 20px 0 40px -40px #000;
 }
 .main-content {
 	display: block;
-	border: 1px solid black;
-	height: 500px;
+	border: 1px solid #ddd;
 }
 
