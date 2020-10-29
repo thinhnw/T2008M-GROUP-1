@@ -2,53 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc67ccf-c081-42f2-9987-6358873726e7" name="Default Changelist" comment="10-yoga">
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-3.4.1/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-yoga-pilates-poses-to-ease-back-pain.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-yoga-pilates-poses-to-ease-back-pain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-wellness-tricks-enhance-mood.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-wellness-tricks-enhance-mood.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sidebar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +24,32 @@
     <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/chien" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -133,7 +116,9 @@
       <workItem from="1603892902373" duration="3522000" />
       <workItem from="1603897487407" duration="333000" />
       <workItem from="1603897837578" duration="2400000" />
-      <workItem from="1603947761299" duration="715000" />
+      <workItem from="1603947761299" duration="1218000" />
+      <workItem from="1603949045476" duration="24000" />
+      <workItem from="1603981428569" duration="2234000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1603419242398</created>
@@ -156,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603422646297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="10-yoga">
+      <created>1603948850522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603948850522</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,13 +157,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="delete home.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete home.html" />
+    <MESSAGE value="10-yoga" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-yoga" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1603900257741">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1603949064915">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603900257741" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1603949064915" />
     <state x="93" y="93" width="1350" height="648" maximized="true" key="DiffContextDialog" timestamp="1603536047111">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -184,14 +177,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="618" y="324" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1603536038300" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1603900226252">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1603948939466">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603900226252" />
-    <state x="587" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603802523800">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603948939466" />
+    <state x="587" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603981574694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="587" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1603802523800" />
+    <state x="587" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1603981574694" />
     <state x="578" y="304" key="git4idea.ui.GitResetDialog" timestamp="1603419000177">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
