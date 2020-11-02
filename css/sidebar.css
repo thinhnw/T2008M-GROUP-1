@@ -1,14 +1,22 @@
 .sidebar {
 	display: block;
 	border: 1px solid #ddd;
+	position: relative;
 }
 .sidebar-inner {
 	display: block;
 	margin: 0 auto;
 	width: 300px;
+	position: sticky;
+	top: 0;
 }
 .social {
 	padding: 1rem 0 2rem 0;
+}
+@media only screen and (max-width: 800px) {
+	.social {
+		display: none;
+	}
 }
 .sidebarHeader {
 	background: url(../images/striped-bg.png) repeat;
