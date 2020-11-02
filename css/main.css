@@ -115,3 +115,6 @@ textarea{
     transition: 500ms;
     background-color: #2aabd2;
 }
+.grid {
+	position: relative;
+}
