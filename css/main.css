@@ -86,9 +86,30 @@ ol{
     border-radius: 5px;
     border: #888888 solid 2px;
 }
-.post{
-  margin: 10px 20px;
+.comment {
+	background: #fff;
+	resize: none;
+	margin-left: 20px;
+	border: 1px #ddd solid;
 }
+.post{
+	margin: 10px 20px;
+	position: relative;
+}
+.post div {
+	position: relative;
+	height: 50px;
+	width: 100%:
+}
+.post label {
+	position: absolute;
+	top: 5px;
+}
+.post input {
+	position: absolute;
+	right: 300px;
+}
+
 button{
    background-color: #d6e9c6;
     text-align: center;
