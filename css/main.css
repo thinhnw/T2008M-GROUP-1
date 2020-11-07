@@ -7,6 +7,7 @@
 }
 .top{
     color: #2aabd2;
+    font-family: "Times New Roman";
     font-size: 16px;
     margin:20px 100px;
     text-align: center;
@@ -69,6 +70,7 @@ a{
 .cout {
     padding-top: 10px;
     margin: 5px 20px;
+    font-family: "Times New Roman";
     font-size:16px;
     font-weight: 300;
 }
@@ -76,6 +78,7 @@ h2{
     font-family: 'Playfair Display',serif;
 }
 h3{
+    font-family: "Times New Roman";
     font-size: 19px;
     color: #2aabd2;
     margin:10px 20px 0px 20px;
