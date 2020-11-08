@@ -18,7 +18,7 @@
     text-align: center;
     color: black;
 }
-h1:hover {
+.h1:hover {
     color: violet;
     text-align: center;
     transition: 600ms;
@@ -62,7 +62,7 @@ h1:hover {
     text-align: center ;
     padding-top:5px;
 }
-a{
+.magic{
     color: white;
     box-sizing: border-box;
     text-decoration: none;
@@ -73,9 +73,6 @@ a{
     font-family: "Times New Roman";
     font-size:16px;
     font-weight: 300;
-}
-h2{
-    font-family: 'Playfair Display',serif;
 }
 h3{
     font-family: "Times New Roman";
@@ -120,7 +117,8 @@ textarea{
 .block{
     margin-left: -5px;
     background-color: #888888;
-}button{
+}
+button{
      background-color: white;
      text-align: center;
      width: 160px;
@@ -130,4 +128,8 @@ textarea{
  }
 .grid {
 	position: relative;
+}
+.font{
+    color: #2aabd2;
+    text-decoration: none;
 }
