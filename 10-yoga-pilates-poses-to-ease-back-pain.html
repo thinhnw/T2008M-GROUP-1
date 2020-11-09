@@ -108,11 +108,22 @@
 					<p class="cout">Your email address will not be published. Required fields are marked *</p>
 					<h3>Comments</h3><br/>
                     <form action="#" method="get">
-                    <textarea class="post" name="Comments" rows="10" cols="87" placeholder="Comments...." required></textarea>
+						<textarea class="comment" name="Comments" rows="10" cols="85" placeholder="Comments...."></textarea>
                         <div class="post">
-							&emsp;Name:&emsp;<input class="z1" type="text"  placeholder="Name" required><br/>
-                            &emsp;Email:&emsp;<input class="z1" type="email" placeholder="Email" required><br/>
-                            &emsp;website:<input class="z1" type="text" placeholder="Website">
+							<div class="name-div">
+								<label>
+									Name:
+								</label>
+								<input class="name-input" type="text"  placeholder="Name">
+							</div>
+							<div class="email-div">
+								<label>Email:</label>
+								<input class="email-input" type="email" placeholder="Email">
+							</div>
+							<div class="website-div">
+								<label>Website:</label>
+								<input class="website-input" type="text" placeholder="Website">
+							</div>
                         </div>
 						<div class="bottom">
 							<button class="block" type="submit">POST COMMENTS</button>
