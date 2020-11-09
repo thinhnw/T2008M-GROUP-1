@@ -1,3 +1,10 @@
+.main {
+	display: block;
+	width: 100%;
+	position: relative;
+	top: 55px;
+	z-index: 0;
+}
 .top{
     color: #2aabd2;
     font-family: "Times New Roman";
@@ -11,10 +18,7 @@
     text-align: center;
     color: black;
 }
-.main-content{
-    background-color: #f9f9f9;
-}
-h1:hover {
+.h1:hover {
     color: violet;
     text-align: center;
     transition: 600ms;
@@ -49,7 +53,7 @@ h1:hover {
     padding-top:5px;
 }
 .box3{
-    background-color: #326781;
+    background-color: cornflowerblue;
     text-align: center ;
     padding-top:5px;
 }
@@ -58,22 +62,21 @@ h1:hover {
     text-align: center ;
     padding-top:5px;
 }
-a{
+.magic{
+    color: white;
     box-sizing: border-box;
     text-decoration: none;
 }
-.cout{
+.cout {
     padding-top: 10px;
-    margin: 0px 20px;
-    font-family: 'Playfair Display', serif;
+    margin: 5px 20px;
+    font-family: "Times New Roman";
+    font-size:16px;
     font-weight: 300;
-}
-h2{
-    font-family: 'Playfair Display',serif;
 }
 h3{
     font-family: "Times New Roman";
-    font-size: 17px;
+    font-size: 19px;
     color: #2aabd2;
     margin:10px 20px 0px 20px;
 }
@@ -82,9 +85,8 @@ ol{
     font-size: 19px;
 }
 .tem{
-    margin: 20px;
+    margin: 5px 20px;
     border-radius: 5px;
-    border: #888888 solid 2px;
 }
 .comment {
 	background: #fff;
@@ -114,18 +116,40 @@ button{
    background-color: #d6e9c6;
     text-align: center;
     width: 200px;
-    height: 50px;
-    font-family: "Times New Roman";
+    border:black solid 1px;
+    border-radius: 4px;
 }
+
 textarea{
     background-color: #e7e7e7;
     border-radius: 6px;
 }
 .bottom{
-   margin-left: 100px;
+   margin-left: 37px;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 .block:hover{
-    color: white;
+    color: black;
     transition: 500ms;
     background-color: #2aabd2;
+}
+.block{
+    margin-left: -5px;
+    background-color: #888888;
+}
+button{
+     background-color: white;
+     text-align: center;
+     width: 160px;
+     height: 35px;
+    font-size: 15px;
+    border: #888888;
+ }
+.grid {
+	position: relative;
+}
+.font{
+    color: #2aabd2;
+    text-decoration: none;
 }
