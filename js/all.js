@@ -83,8 +83,7 @@ function articlesByTag(tagName) {
 
 	let g_html = "";
 	
-	articles.forEach((article) => {
-	
+	articles.filter(article => article.tagName === tagName || tagName === "all" ).forEach((article) => {
 		g_html += "" +
 						"<div class=\"article\">" +
 							"<div class=\"article-img\">" +
@@ -104,4 +103,14 @@ function articlesByTag(tagName) {
 	return g_html;
 }
 
-articlesSection.innerHTML = articlesByTag("all");
+let classList = articlesSection.classList;
+if (classList.length === 1) {
+
+	articlesSection.innerHTML = articlesByTag("all");
+} else {
+	classList.forEach((c) => {
+		if (c !== "articles-section") {
+			articlesSection.innerHTML = articlesByTag(c.split("-")[0]);
+		}
+	})
+}

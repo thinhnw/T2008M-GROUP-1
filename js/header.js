@@ -14,7 +14,7 @@ function header() {
         "						<li><a href=\"./recipes.html\">RECIPES</a></li>\n" +
         "						<li><a href=\"./healthy-living.html\">HEALTHY LIVINGS</a></li>\n" +
         "						<li><a href=\"./yoga.html\">YOGA</a></li>\n" +
-        "						<li><a href=\"./just-for-fun.html\">JUST FOR FUN</a></li>\n" +
+        "						<li><a href=\"./fun.html\">JUST FOR FUN</a></li>\n" +
         "					</ul>\n				</div>\n" +
         "				<div class=\"top-right\">\n" +
         "					<div class=\"btn-search\">\n" +

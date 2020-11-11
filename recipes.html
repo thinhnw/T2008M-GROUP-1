@@ -16,128 +16,25 @@
 <body>
 	<div id="fb-root"></div>
 	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="MTZzpmSU"></script> 
-	<header class="header">
-		<div class="container">
-			<div class="navbar">
-				<div class="logo">
-					<a href="./home.html" class="logo-link">
-						<img src="images/logo.svg" alt="">
-					</a>
-				</div>
-				<div class="top-links">
-					<ul>
-						<li><a href="./home.html">HOME</a></li>
-						<li><a href="./fitness.html">FITNESS</a></li>
-						<li><a href="./recipes.html">RECIPES</a></li>
-						<li><a href="./healthy-living.html">HEALTHY LIVINGS</a></li>
-						<li><a href="./yoga.html">YOGA</a></li>
-						<li><a href="./just-for-fun.html">JUST FOR FUN</a></li>
-					</ul>
-				</div>
-				<div class="top-right">
-					<div class="btn-search">
-						<i class="fas fa-search"></i>
-					</div>
-				</div>
-			</div>
-		</div>
+	<header class="header" id="header">
+			
 	</header>	
 	<main class="main">
 		<div class="container">
 			<div class="grid">
 				<div class="main-content">
-
+					<div class="articles-section recipes-page"></div>
 				</div>
-				<div class="sidebar">
-					<div class="sidebar-inner">
-						<div class="fb-page social" 
-							data-href="https://www.facebook.com/SimpleFitnessBlog" 
-							data-width="340" 
-							data-small-header="true" 
-							data-adapt-container-width="true" 
-							data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/SimpleFitnessBlog" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/SimpleFitnessBlog">Simple Fitness</a></blockquote>
-						</div>
-						<div class="sidebarHeader">
-							<h4 class="sidebarHeading">POPULAR POSTS</h4>
-						</div>
-						<div class="sidebarItems">
-							<ul>
-								<li class="sidebarItem">
-									<a class="item-link" href="./10-yoga-pilates-poses-to-ease-back-pain.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/yoga-for-backpain.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">10 Yoga & Pilates Poses to Ease Back Pain</p>
-											</div>
-										</div>	
-									</a>
-								</li><li class="sidebarItem">
-									<a class="item-link" href="./signs-body-telling-enough.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/Signs-your-body-is-telling-you-enough.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">Signs your body is telling you 'enough'</p>
-											</div>
-										</div>	
-									</a>
-								</li><li class="sidebarItem">
-									<a class="item-link" href="./10-easy-exercises-burning-calories.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/Easy-Exercises-for-Burning-Calories.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">10 Easy Exercises for Burning Calories</p>
-											</div>
-										</div>	
-									</a>
-								</li><li class="sidebarItem">
-									<a class="item-link" href="./10-wellness-tricks-enhance-mood.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/Wellness-Tricks-660x400.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">10 Wellness tricks to enhance your mood</p>
-											</div>
-										</div>	
-									</a>
-								</li><li class="sidebarItem">
-									<a class="item-link" href="./detoxing-myth-can-get-healthy.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/detox-660x400.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">If Detoxing Is a Myth - What Can You Do To Get Yourself Healthy?</p>
-											</div>
-										</div>	
-									</a>
-								</li><li class="sidebarItem">
-									<a class="item-link" href="./juicing-recipes-healthy-lifestyle.html">
-										<div class="card">
-											<div class="card-img">
-												<img src="images/Miracle-Detox-Juice-660x400.jpg" alt="">	
-											</div>
-											<div class="card-body">
-												<p class="card-title">The 'Miracle' Juice Cleanse - What Does It Really Do To Your Body?</p>
-											</div>
-										</div>	
-									</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
+				<div class="sidebar" id="sidebar"></div>
 			</div>	
 		</div>
 	</main>
 	<footer class="footer">
 
 	</footer>
+
+	<script src="js/all.js"></script>
+	<script src="js/header.js"></script>
+	<script src="js/sidebar.js"></script>
 </body>
 </html>
