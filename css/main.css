@@ -17,6 +17,7 @@
 	grid-template-columns: 1fr 1fr;
 	border-bottom: 1px #ddd solid;	
 	margin-bottom: 1.25rem;
+	text-decoration: none;
 }
 .article-img {
 	width: 100%;
@@ -73,6 +74,10 @@
 	font-size: 1.5rem;
 	margin: 0;
 	padding: 0;
+	color: #111;
+}
+.article-title:hover {
+	color: #2f9eed;
 }
 .article-text {
 	margin: 0;
