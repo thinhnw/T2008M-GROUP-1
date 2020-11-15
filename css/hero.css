@@ -17,7 +17,6 @@
 	grid-gap: 0;
 }
 .hero-item {
-	border: 1px #000 solid;
 	padding: 1rem;
 	position:relative;
 	text-decoration: none;
@@ -80,4 +79,11 @@
 	transform: translate(-50%, 50%);
 	line-height: 1.2;
 	padding: 0.5rem;
+}
+.item-large p {
+	position: relative;
+	top: 50px;
+	color: #333;
+	text-align: center;
+	line-height: 1.5;
 }
