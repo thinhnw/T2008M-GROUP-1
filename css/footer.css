@@ -1,0 +1,38 @@
+.footer {
+	height: 300px;
+	background: #00c4cc;
+	position: relative;
+	top: 55px;
+	padding: 70px 0 ;
+}
+.footer .flex {
+	display: flex;
+	justify-content: space-between;
+}
+.tags-list  {
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 2rem;
+	vertical-align: text-top;
+}
+.tags-list li a{
+	color: #fff;
+	line-height: 1.75;
+	text-decoration: 0;
+}
+.subscription-form {
+	color: #fff;
+}
+.subscription-form input[type=email]{
+	width: 100%;
+	margin: 0.5rem 0;
+	box-sizing: border-box;
+	padding: 0.75rem 0.5rem;
+}
+.subscription-form button {
+	width: 100%;
+}
+.copyright {
+	margin-top: 50px;
+	color: #fff;
+}
